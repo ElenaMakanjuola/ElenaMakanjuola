@@ -22,15 +22,15 @@ professional placement (2024 – 2028)  </h2>
 - <b>Healthcare AI Classifier</b>
   - [Classifying Breast Cancer Images using Tensorflow Python Library](BreastCancerClassification.ipynb)
 - <b>Dragon's Gambit</b>
-  - [Winning hackathon project, a Dungeon's and Dragons Twist on chess](Dragon's Gambit)
+  - [Winning hackathon project, a Dungeon's and Dragons Twist on chess](https://github.com/ElenaMakanjuola/Dragon-sGambit)
  - <b>TypeSmith </b>
-  - [Group hackathon project, themed typing test using Chat-GPT Wrappers](https://github.com/BlakeFrampton/TypeSmith) 
+   - [Group hackathon project, themed typing test using Chat-GPT Wrappers](https://github.com/BlakeFrampton/TypeSmith) 
 
-
+<!--
 <h2> 🤳 Connect with me:</h2>
 
 
 [<img align="left" alt="ElenaMakanjuola | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: www.linkedin.com/in/elena-makanjuola-9261a4356
-
+-->
