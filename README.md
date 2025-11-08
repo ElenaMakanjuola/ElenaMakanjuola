@@ -7,20 +7,20 @@ professional placement (2024 – 2028)  </h2>
 <h2>👨‍💻 University Projects:</h2>
 
 - <b>Spamfilter</b>
-  - [Naive Bayes Spamfilter from scrath in Python](Projects/spamclassifier.ipynb)
+  - [Naive Bayes Spamfilter from scrath in Python](https://github.com/ElenaMakanjuola/Projects-/blob/main/spamclassifier.ipynb)
 - <b> Sudoku Solver</b>
-  - [Backtracking sudoku solver with Python and Numpy](sudokuCoursework.ipynb) 
+  - [Backtracking sudoku solver with Python and Numpy](https://github.com/ElenaMakanjuola/Projects-/blob/main/sudokuCoursework.ipynb) 
 - <b>Whack-A-Mole Arduino Game</b>
-  - [ Two-player Whack-A-Mole Game played on an Arduino ](whacAMole.ino)
+  - [ Two-player Whack-A-Mole Game played on an Arduino ](https://github.com/ElenaMakanjuola/Projects-/blob/main/whacAMole.ino)
 - <b>Text-baed Adventure Game</b>
-  - [Text-based Adventure Game coded in the functional langauge Haskell](Coursework.hs)
+  - [Text-based Adventure Game coded in the functional langauge Haskell](https://github.com/ElenaMakanjuola/Projects-/blob/main/Coursework.hs)
 - <b>House Price Predictor</b>
-  - [Using the scikit-learn Python library regression models](HousePriceAI.ipynb)
+  - [Using the scikit-learn Python library regression models](https://github.com/ElenaMakanjuola/Projects-/blob/main/HousePriceAI.ipynb)
 
 <h2>🌼 Personal Projects</h2>
 
 - <b>Healthcare AI Classifier</b>
-  - [Classifying Breast Cancer Images using Tensorflow Python Library](BreastCancerClassification.ipynb)
+  - [Classifying Breast Cancer Images using Tensorflow Python Library](https://github.com/ElenaMakanjuola/Projects-/blob/main/BreastCancerClassification.ipynb)
 - <b>Dragon's Gambit</b>
   - [Winning hackathon project, a Dungeon's and Dragons Twist on chess](https://github.com/ElenaMakanjuola/Dragon-sGambit)
  - <b>TypeSmith </b>
