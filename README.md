@@ -6,7 +6,7 @@ professional placement (2024 – 2028)  </h2>
 
 <h2>👨‍💻 University Projects:</h2>
 
-- <b>Spamfilter [Note change all links!]</b>
+- <b>Spamfilter</b>
   - [Naive Bayes Spamfilter from scrath in Python](spamclassifier.ipynb)
 - <b> Sudoku Solver</b>
   - [Backtracking sudoku solver with Python and Numpy](sudokuCoursework.ipynb) 
